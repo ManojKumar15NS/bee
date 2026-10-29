@@ -1,0 +1,6 @@
+{
+  "name": "Melli Bee Co. — Pure Raw Honey & Apiary",
+  "description": "Pure artisanal raw honey sustainably crafted by nature. An interactive 3D honeybee landing page with procedural sound, step-by-step honey production flow, and reserve editions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
